@@ -23,19 +23,19 @@ consequences.[^4]
 
 The class will be live-coded in a Jupyter notebook. The annotated
 notebook will be available after the class as
-[04-numbers-and-errors.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/04_numbers/04-numbers-and-errors.ipynb).
+[04-numbers-and-errors.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/04_numbers/04-numbers-and-errors.ipynb).
 
 For one problem you should obtain the notebook
-[04-problem-sine-series.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/04_numbers/04-problem-sine-series.ipynb),
+[04-problem-sine-series.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/04_numbers/04-problem-sine-series.ipynb),
 which already contains part of the code you will need. Pull
-[your PHY494-resources repository]({{site.baseurl}}{% post_url 2016-01-21-git_basics %}#class-resources-on-github):
+[your PHY494-resources-2016 repository]({{site.baseurl}}{% post_url 2016-01-21-git_basics %}#class-resources-on-github):
 
 {% highlight bash %}
-cd ~/PHY494-resources
+cd ~/PHY494-resources-2016
 git pull
 {% endhighlight %}
 
-and find it under `~/PHY494-resources/04_numbers/04-problem-sine-series.ipynb`.
+and find it under `~/PHY494-resources-2016/04_numbers/04-problem-sine-series.ipynb`.
 
 
 #### Additional resources
@@ -76,5 +76,5 @@ and find it under `~/PHY494-resources/04_numbers/04-problem-sine-series.ipynb`.
      See Bruce M Bush's
      [The Perils of Floating Point](http://www.lahey.com/float.htm)
      and a notebook
-     [Perils_of_Floating_Point.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/04_numbers/Perils_of_Floating_Point.ipynb)
+     [Perils_of_Floating_Point.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/04_numbers/Perils_of_Floating_Point.ipynb)
      based on that article.

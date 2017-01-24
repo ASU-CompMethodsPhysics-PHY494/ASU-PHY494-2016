@@ -34,4 +34,4 @@ import numpy
 ## Class material
 
 The class will be live-coded in a Jupyter notebook. The annotated
-notebook is available as [03-intro-numpy.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/03_numpy/03-intro-numpy.ipynb).
+notebook is available as [03-intro-numpy.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/03_numpy/03-intro-numpy.ipynb).

@@ -15,12 +15,12 @@ derivative and assess their error.
 ## Class material
 
 You can follow the lecture in the slides
-[06_differentiation.ipynb](http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/06_differentiation/06_differentiation.ipynb).
+[06_differentiation.ipynb](http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/06_differentiation/06_differentiation.ipynb).
 
 For the problem that you should solve during the class, get the
 notebook
-[06_differentiation-students.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/06_differentiation/06_differentiation-students.ipynb)
-(`git pull` [your PHY494-resources repository]({{site.baseurl}}{% post_url 2016-01-21-git_basics %}#class-resources-on-github)).
+[06_differentiation-students.ipynb](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/06_differentiation/06_differentiation-students.ipynb)
+(`git pull` [your PHY494-resources-2016 repository]({{site.baseurl}}{% post_url 2016-01-21-git_basics %}#class-resources-on-github)).
 
 #### Additional resources
 

@@ -41,10 +41,10 @@ course:
  url:                http://becksteinlab.physics.asu.edu/learning/76/phy494-computational-physics
 
 resources:
- name:               ASU-CompMethodsPhysics-PHY494/PHY494-resources
- shortname:          PHY494-resources
- url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources
- fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
+ name:               ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016
+ shortname:          PHY494-resources-2016
+ url:                https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016
+ fileurl:            https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master
 
 
 org:
@@ -54,7 +54,7 @@ org:
 
 nbviewer:
    show:             http://nbviewer.jupyter.org/github
-   resources:        http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master
+   resources:        http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master
 
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - only included what is be needed

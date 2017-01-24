@@ -152,9 +152,9 @@ in [12_SVD-Students-1.ipynb]({{site.nbviewer.resources}}/12_linear_algebra/12_SV
 #### Additional resources:
 
 * _Computational Physics_: Chapter **6**
-* [12_Linear_Algebra notebook (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/12_linear_algebra/12_Linear_Algebra.pdf)
-* [Lecture notes for the 1 rod/2 masses/3 strings problem (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/12_linear_algebra/12_String_Problem_lecture_notes.pdf) and [solution for the problem (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/12_linear_algebra/12_String_Problem.pdf)
-* [12_SVD notebook (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/12_linear_algebra/12_SVD.pdf)
+* [12_Linear_Algebra notebook (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/12_linear_algebra/12_Linear_Algebra.pdf)
+* [Lecture notes for the 1 rod/2 masses/3 strings problem (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/12_linear_algebra/12_String_Problem_lecture_notes.pdf) and [solution for the problem (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/12_linear_algebra/12_String_Problem.pdf)
+* [12_SVD notebook (PDF)](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/12_linear_algebra/12_SVD.pdf)
 * _[Numerical Recipes in C](http://apps.nrbook.com/c/index.html)_, WH
   Press, SA Teukolsky, WT Vetterling, BP Flannery. 2nd
   ed, 2002. Cambridge University Press. Chapter **2**.
@@ -178,6 +178,6 @@ in [12_SVD-Students-1.ipynb]({{site.nbviewer.resources}}/12_linear_algebra/12_SV
       solution because is has $$M < N$$.
 
 [^4]: As usual, `git pull` the
-      [resources repository](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources)
+      [resources repository](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016)
       to get a local copy of the notebook. Then copy the notebook into
       your work directory in order to complete the exercises.

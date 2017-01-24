@@ -140,11 +140,11 @@ The tutorial will be live-coded in a
 a new notebook and follow my lead. Type and run commands. Ask
 questions (use red stickies when stuck).
 
-After the class, this link to the [tutorial notebook](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/02_python/02-intro-python.ipynb) will be
+After the class, this link to the [tutorial notebook](http://nbviewer.jupyter.org/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/02_python/02-intro-python.ipynb) will be
 enabled. The notebook is stored in the git repository
-[ASU-CompMethodsPhysics-PHY494/PHY494-resources](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources):
+[ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources):
 `git pull` to update[^1] and find
-[PHY494-resources/02_python/02-intro-python.ipynb](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/02_python/02-intro-python.ipynb).
+[PHY494-resources-2016/02_python/02-intro-python.ipynb](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/02_python/02-intro-python.ipynb).
 
 # Next steps
 

@@ -30,7 +30,7 @@ which is part of [SciPy](http://scipy.org).
 ## Class Material
 
 You can follow the lecture in the slides
-[07_integration.ipynb](http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources/blob/master/07_integration/07_integration.ipynb#/).
+[07_integration.ipynb](http://nbviewer.jupyter.org/format/slides/github/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016/blob/master/07_integration/07_integration.ipynb#/).
 
 #### Additional resources
 

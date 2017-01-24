@@ -198,8 +198,8 @@ clone the repository where code and data will be posted:
 
 ~~~
 cd ~
-git clone https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources.git
-cd PHY494-resources
+git clone https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016.git
+cd PHY494-resources-2016
 ~~~
 
 Note:
@@ -207,11 +207,11 @@ Note:
 * The local name of your repository can be any name you like but it is
   customary (and less confusing) if you go with the default, which is
   the remote repository name without the ".git" suffix, i.e.,
-  *PHY494-resources* for us.
+  *PHY494-resources-2016* for us.
 * For all other `git` commands you *must* be *inside* your local
   repository:
 
-		cd ~/PHY494-resources
+		cd ~/PHY494-resources-2016
 
 
 Update your local repository with any "upstream" changes:
@@ -227,7 +227,7 @@ git push
 ~~~
 
 (For "pushing" to work, you must be allowed to write to the remote
-repository; this will not work for *PHY494-resources* but we will use
+repository; this will not work for *PHY494-resources-2016* but we will use
 it below for
 [your own GitHub repositories](#set-up-your-own-github-repositories)).
 
@@ -289,18 +289,18 @@ session to the repository.
 
 Notebooks and files are being made available on GitHub in the
 repository
-[ASU-CompMethodsPhysics-PHY494/PHY494-resources](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources). If
+[ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016](https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources). If
 you have not done so already:
 
 ~~~
 cd ~
-git clone https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources.git
+git clone https://github.com/ASU-CompMethodsPhysics-PHY494/PHY494-resources-2016.git
 ~~~
 
 Update:
 
 ~~~
-cd ~/PHY494-resources
+cd ~/PHY494-resources-2016
 git pull
 ~~~
 
@@ -308,7 +308,7 @@ You should get a new file, `02_python/02-intro-python.ipynb`. Copy it
 to *your* class directory:
 
 ~~~
-cp ~/PHY494-resources/02_python/02-intro-python.ipynb ~/PHY494/02_python/
+cp ~/PHY494-resources-2016/02_python/02-intro-python.ipynb ~/PHY494/02_python/
 ~~~
 
 and create a new commit with it:
